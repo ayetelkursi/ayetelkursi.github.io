@@ -2,7 +2,7 @@
 layout: post
 title: Ayetel Kursi
 ---
-<div style="text-align:right;">
+
 اللّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ <br/>
 لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ <br/>
 لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ <br/>
@@ -11,8 +11,8 @@ title: Ayetel Kursi
 وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء <br/>
 وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ
 <br/>وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ
-</div>
 
+<br/>
 Allah, kendisinden başka hiçbir ilâh olmayandır. Diridir, kayyumdur.<br/>
 O’nu ne bir uyuklama tutabilir, ne de bir uyku.<br/>
 Göklerdeki her şey, yerdeki her şey O’nundur.<br/>
