@@ -12,7 +12,8 @@ title: Ayetel Kursi
 وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ
 <br/>وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ
 
-<br/>
+
+<h2>Ayetel Kürsi Türkçe Meali</h2>
 Allah, kendisinden başka hiçbir ilâh olmayandır. Diridir, kayyumdur.<br/>
 O’nu ne bir uyuklama tutabilir, ne de bir uyku.<br/>
 Göklerdeki her şey, yerdeki her şey O’nundur.<br/>
