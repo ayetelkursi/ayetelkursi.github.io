@@ -17,7 +17,7 @@ title: Ayetel Kürsi
 **Ayetel Kürsi Dinle**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t9lKjQ36pvI" frameborder="0" allowfullscreen></iframe>
 
-<h2>Ayetel Kürsi Türkçe Meali</h2>
+<h2>Türkçe Meali</h2>
 Allah, kendisinden başka hiçbir ilâh olmayandır. Diridir, kayyumdur.<br/>
 O’nu ne bir uyuklama tutabilir, ne de bir uyku.<br/>
 Göklerdeki her şey, yerdeki her şey O’nundur.<br/>
@@ -28,7 +28,7 @@ O’nun kürsüsü, bütün gökleri ve yeri kaplayıp kuşatmıştır.<br/>
 Gökleri ve yeri koruyup gözetmek O’na güç gelmez. O, yücedir, büyüktür.
 <br />
 
-<h2>Ayetel Kürsi Okunuşu (Latin Harfleriyle Yazılışı)</h2>
+<h2>Okunuşu (Latin Harfleriyle Yazılışı)</h2>
 <span style="color:red;">Uyarı: Eğer ayetin Arapçasını ezbere bilmiyorsanız bu yazılış ile okumamalısınız. Aksi takdirde hatalı okuyabilirsiniz.</span><br />
 
 Allâhu lâ ilâhe illâ huvel hayyul kayyûm(kayyûmu), lâ te’huzuhu sinetun ve lâ nevm(nevmun), lehu mâ fîs semâvâti ve mâ fil ard(ardı), menzellezî yeşfeu indehû illâ bi iznih(iznihî) ya’lemu mâ beyne eydîhim ve mâ halfehum, ve lâ yuhîtûne bi şey’in min ilmihî illâ bi mâ şâe, vesia kursiyyuhus semâvâti vel ard(arda), ve lâ yeûduhu hıfzuhumâ ve huvel aliyyul azîm(azîmu).
