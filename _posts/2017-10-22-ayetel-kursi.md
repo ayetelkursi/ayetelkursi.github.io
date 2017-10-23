@@ -14,6 +14,8 @@ title: Ayetel Kürsi
 وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ
 <br/>وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ
 
+**Ayetel Kürsi Dinle**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t9lKjQ36pvI" frameborder="0" allowfullscreen></iframe>
 
 <h2>Ayetel Kürsi Türkçe Meali</h2>
 Allah, kendisinden başka hiçbir ilâh olmayandır. Diridir, kayyumdur.<br/>
