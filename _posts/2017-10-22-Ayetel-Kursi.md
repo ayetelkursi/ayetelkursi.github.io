@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ayetel Kursi
+title: Ayetel Kürsi
 ---
 
 اللّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ <br/>
