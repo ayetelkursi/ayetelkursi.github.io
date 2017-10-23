@@ -351,10 +351,4 @@ title: Yasin Suresi
 
 
 </div>
-<script>
-(function() {
-var tabView = new YAHOO.widget.TabView('demo');
-
-YAHOO.log("The example has finished loading; as you interact with it, you'll see log messages appearing here.", "info", "example");
-})();
-</script></div>
+</div>
