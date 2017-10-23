@@ -2,6 +2,24 @@
 layout: post
 title: Yasin Suresi
 ---
+
+<style>
+    .ayet-no{color:#aa3300;font-size:30px;}
+  .arabic{color: #330033; direction: rtl; font-family: "shaikh hamdullah mushaf" , "amiri quranweb"; font-size: 30px; line-height: 40px; margin: 0px; padding: 7px 0px; text-align: right;}
+  .sure-ayet{color: #0b5394; font-weight: bold;text-align:left;}
+  .latinalph{color: #38761d;text-align:left;}
+  .meal{font-weight:normal;}
+  .ayah1{
+    	background-color:#DCEDC8;
+    	border-bottom: 2px dashed #999;
+		padding:1em;
+    }
+  .ayah2{
+    	background-color:#C8E6C9;
+    	border-bottom: 2px dashed #999;
+		padding:1em;
+    }
+</style>
 <div class="yui-content">
 <div id="tab1" style="display: block;">
 <div class="arabic" style="padding:1em;color: #330033; direction: rtl; font-family: 'Shaikh Hamdullah Mushaf', 'Amiri QuranWeb'; margin: 0px; padding: 7px 0px; text-align: right;">
