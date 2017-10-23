@@ -24,6 +24,6 @@ Gökleri ve yeri koruyup gözetmek O’na güç gelmez. O, yücedir, büyüktür
 <br />
 
 <h2>Ayetel Kürsi Okunuşu (Latin Harfleriyle Yazılışı)</h2>
-<span style="color:red;">Uyarı: Eğer ayetin Arapçasını ezbere bilmiyorsanız bu yazılış ile okumamalısınız. Aksi takdirde hatalı okuyabilirsiniz.</span>
+<span style="color:red;">Uyarı: Eğer ayetin Arapçasını ezbere bilmiyorsanız bu yazılış ile okumamalısınız. Aksi takdirde hatalı okuyabilirsiniz.</span><br />
 
 Allâhu lâ ilâhe illâ huvel hayyul kayyûm(kayyûmu), lâ te’huzuhu sinetun ve lâ nevm(nevmun), lehu mâ fîs semâvâti ve mâ fil ard(ardı), menzellezî yeşfeu indehû illâ bi iznih(iznihî) ya’lemu mâ beyne eydîhim ve mâ halfehum, ve lâ yuhîtûne bi şey’in min ilmihî illâ bi mâ şâe, vesia kursiyyuhus semâvâti vel ard(arda), ve lâ yeûduhu hıfzuhumâ ve huvel aliyyul azîm(azîmu).
