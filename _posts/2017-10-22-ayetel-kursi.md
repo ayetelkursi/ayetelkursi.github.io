@@ -3,6 +3,8 @@ layout: post
 title: Ayetel Kürsi
 ---
 
+"Ayetel Kürsi" olarak bilinen ayet Bakara suresinin 255. ayetidir. Bu ayette genel olarak Allah Subhanehu ve Teala'nın yüceliğinden, kudretinden, azametinden bahsedilmektedir. O müşriklerin ortak koştuklarından çok daha yücedir. Müşriklerin yakıştırdıklarından münezzehtir. <br />
+
 اللّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ <br/>
 لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ <br/>
 لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ <br/>
