@@ -3,6 +3,8 @@ layout: post
 title: Yasin Suresi
 ---
 
+Yasin Suresi toplamda 83 ayetten oluşur. Yasin Suresinin ölülere okunması ile ilgili bir delil yoktur. Bu sonradan uydurulmuş bir bidattır. Her bidat sapıklıktır. Her dalalet ateştedir. Allah Rasulü'nün sünnetinde mezara gidip ölüler için kuran okumak gibi bir amel yoktur. Yasin suresi 70. ayette Allah subhanehu ve teala Kuran-ı Kerim'in "dirileri uyarması ve kafirlere azabın hak olması" için indirildiğini belirtir.
+
 <style>
     .ayet-no{color:#aa3300;font-size:30px;}
   .arabic{color: #330033; direction: rtl; font-family: "shaikh hamdullah mushaf" , "amiri quranweb"; font-size: 30px; line-height: 40px; margin: 0px; padding: 7px 0px; text-align: right;}
