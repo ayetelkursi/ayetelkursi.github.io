@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Hakkımızda
 permalink: /about/
 ---
 
-Some information about you!
+Sitemizde Ayetel Kürsi, Yasin Suresi veya diğer ayet ve hadisleri hem Arapça hem de Türkçe mealiyle okuyabilirsiniz.
 
-### More Information
+### İletişim
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+İletişim için bilgi@ayetelkursi.com adresinden e-posta gönderebilirsiniz.
